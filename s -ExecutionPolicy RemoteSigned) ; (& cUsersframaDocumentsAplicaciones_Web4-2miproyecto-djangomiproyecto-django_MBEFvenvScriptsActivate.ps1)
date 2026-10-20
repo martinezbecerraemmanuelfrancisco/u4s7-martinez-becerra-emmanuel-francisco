@@ -1,0 +1,10 @@
+[33me5287d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Actualizacion de README
+[33mf5faa9e[m U3S6: Actualizacion del Admin
+[33m829f1c4[m U3S6: registro, login, logout y aislamiento de datos por usuario
+[33mb92f289[m U3S5: CRUD completo de Servicio con ModelForms
+[33mde85e8e[m Conectar la vista de servicios al modelo real en MySQL
+[33m8eae756[m Aplica Csv a ALLOWED_HOSTS y guarda archivo
+[33m6151178[m Guarda cambios en settings.py y actualiza el proyecto
+[33m17d3da6[m U2S4: modelo Servicio, gunicorn, whitenoise y config por variables de entorno
+[33m4407d49[m U2S4: modelo Servicio, gunicorn, whitenoise y config por variables de entorno
+[33m93171da[m crud admin django servicios martinez becerra emmanuel francisco
